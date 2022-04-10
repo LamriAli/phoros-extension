@@ -20,11 +20,7 @@ function get_Rx(url)
 
 
 }
-
-function click()
+function ali()
 {
- 
+    window.location.href = "https://www.example.com";
 }
-
-
-click()
